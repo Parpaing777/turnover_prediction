@@ -11,3 +11,5 @@ This project uses the following tech stacks:
 This repository contains the raw data, the queries used in the project, and the ipynb notebook used for training the model.
 
 The LookerStudio Dashboard can be viewed through here : [LINK](https://datastudio.google.com/reporting/81e82456-2caa-4fa9-b227-842d4c4e5512 "LookerStudio Dashboard")
+
+![](img/dashboard.png)
